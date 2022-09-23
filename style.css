@@ -87,9 +87,10 @@ p {
   position: relative;
 }
 
-.onda-subtitulo::after {
+.onda-subtitulo::before {
   position: absolute;
-  top: 20px;
+  top: 4px;
+  z-index: -1;
 }
 
 .vantagens {
