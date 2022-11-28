@@ -8,15 +8,13 @@
 }
 
 @media (prefer-color-scheme: dark) {
-  
-}
-
-:root {
-  --fundo-1: #111111;
-  --fundo-2: #000000;
-  --texto: #ffffff;
-  --subtitulo:rgba(255, 255, 255, 0.2);
-  --onda: url("./img/onda.svg-escura");
+  :root {
+    --fundo-1: #111111;
+    --fundo-2: #000000;
+    --texto: #ffffff;
+    --subtitulo:rgba(255, 255, 255, 0.2);
+    --onda: url("./img/onda.svg-escura");
+  }
 }
 
 
